@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 40px;
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 12px;
+    margin-left: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
